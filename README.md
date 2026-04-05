@@ -28,6 +28,9 @@ Please, contribute!
 
 ### Client extensions
 
+* [gitty](https://github.com/Omibranch/gitty) - Single-binary Go CLI that replaces `git add + git commit + git push` with one command: `gitty up`.
+
+
 * [Turbo Git](https://github.com/labs-js/turbo-git) - commit convention support.
 * [Magit](https://github.com/magit/magit) - A Git Porcelain inside Emacs.
 
